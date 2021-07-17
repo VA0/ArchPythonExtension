@@ -45,7 +45,7 @@ Python 2.7 Simple Extension in C++
 </ul>
 
 
-<b>...or compily manually</b>
+<b>...or compile manually</b>
 
 <ul>
   <li>g++ -c arch.cpp udp.cpp -IC:/Python27/include -D MS_WIN64</li>
