@@ -1,0 +1,7 @@
+.vscode
+arch_lib.egg-info
+build
+dist
+vc140.pdb
+arch.obj
+arch.exp
