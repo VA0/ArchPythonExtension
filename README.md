@@ -52,3 +52,5 @@ Python 2.7 Simple Extension in C++
   <li>g++ -shared -o arch.pyd arch.o  -LC:/Python27/libs -lPython27 -D MS_WIN64</li>
 </ul>
 and move arch.pyd into python executable folder
+
+Server not included, write your own. This just an example.
